@@ -1,0 +1,22 @@
+html{
+    height:100%
+}
+
+body{
+    background-image: url('../img/hatter.png') ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+div{
+    background-color: rgba(173, 255, 47, 0.5);
+    width: 50%;
+    margin: auto auto;
+    border-width: 20px;
+    border-color: brown;
+    border-style: solid;
+    padding:10px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: xx-large;
+}
